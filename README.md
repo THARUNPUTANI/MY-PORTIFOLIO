@@ -15,7 +15,7 @@
 - 🌱 Actively learning: **Machine Learning, Streamlit, Advanced JavaScript**
 - 💬 Ask me about **Python, Cybersecurity, Web Development, Machine Learning**
 - 🧠 Always curious and eager to work on real-world tech challenges
-- 📫 Reach me at: **putanitharun@gmail.com**
+- 📫 Reach me at: **tharunputani@gmail.com**
 
 ---
 
